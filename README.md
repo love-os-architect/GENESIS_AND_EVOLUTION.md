@@ -30,7 +30,7 @@ We conducted a comparative simulation of two worlds:
 
 **The Result (Phase Diagram):**
 
-![Genesis Phase Diagram](images/phase_genesis.png)
+![phase_genesis](./phase_genesis.png)
 *(Fig 1. Left: The World with Love-Efficiency. Right: The World without Love-Efficiency.)*
 
 * **Left (With Love):** Life (Yellow Zone) emerges even with low energy inputs and weak connections. The system "helps itself" via positive feedback.
