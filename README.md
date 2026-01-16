@@ -58,7 +58,7 @@ $$R_{individual} = R_{base} + \alpha \cdot (1 - A)$$
 ### 2.2 Simulation: "The Victory of Love"
 We ran an evolutionary algorithm (modified Wright-Fisher model) over 300 generations.
 
-![Evolution Plot](./plot_evolution.png)
+![plot_evolution](./plot_evolution.png)
 *(Fig 2. Top: Mean Love (A) rises. Middle: Mean Resistance (R) drops. Bottom: Fitness increases.)*
 
 * **Trend:** The population rapidly converges to $A \approx 1.0$.
